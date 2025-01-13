@@ -1,3 +1,4 @@
+package dice;
 import java.util.Random;
 class Dice {
     public int roll(int sides){
